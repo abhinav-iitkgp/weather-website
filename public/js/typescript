@@ -1,0 +1,344 @@
+Script started on Fri Jan 15 16:09:41 2021
+[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air js % [K[?2004hnnode script.js[1m [0m[0m [?2004l
+Client side js running
+/Users/abhinavsingh/Desktop/Node/weather-app/web-servers/public/js/script.js:3
+fetch('puzzle.mead.io/puzzle')
+^
+
+ReferenceError: fetch is not defined
+    at Object.<anonymous> (/Users/abhinavsingh/Desktop/Node/weather-app/web-servers/public/js/script.js:3:1)
+[90m    at Module._compile (internal/modules/cjs/loader.js:1063:30)[39m
+[90m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)[39m
+[90m    at Module.load (internal/modules/cjs/loader.js:928:32)[39m
+[90m    at Function.Module._load (internal/modules/cjs/loader.js:769:14)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)[39m
+[90m    at internal/main/run_main_module.js:17:47[39m
+[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air js % [K[?2004hsscr
+[Jscreen         screencapture  script[A[0m[27m[24m[46Cscr[Kipt[1m [0m[0m .js[?2004l
+[Jzsh: command not found: script.js
+[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air js % [K[?2004hscript.js       s  ccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air public % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air web-servers % [K[?2004hccd src[?2004l
+[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air src % [K[?2004hnnode app   mon app -e js,hbs[?2004l
+[33m[nodemon] 2.0.7[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,hbs[39m
+[32m[nodemon] starting `node app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node app.js`[39m
+Listening at port 3000
+ç^C[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air src % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air web-servers % [K[?2004hnnpde   n nodemon /src/app -e js,hbs[?2004l
+  Usage: nodemon [nodemon options] [script.js] [args]
+
+  See "nodemon --help" for more.
+
+[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air web-servers % [K[?2004hnodemon /src/app -e js,hbs[P[17C [18D[?2004l
+[33m[nodemon] 2.0.7[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,hbs[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+^C[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air web-servers % [K[?2004hnodemon src/app -e js,hbs[?2004l
+[33m[nodemon] 2.0.7[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,hbs[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+ReferenceError: address is not defined
+    at /Users/abhinavsingh/Desktop/Node/weather-app/web-servers/src/app.js:70:13
+    at Layer.handle [as handle_request] (/Users/abhinavsingh/Desktop/Node/weather-app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/abhinavsingh/Desktop/Node/weather-app/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/abhinavsingh/Desktop/Node/weather-app/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/abhinavsingh/Desktop/Node/weather-app/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/abhinavsingh/Desktop/Node/weather-app/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/abhinavsingh/Desktop/Node/weather-app/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/abhinavsingh/Desktop/Node/weather-app/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/abhinavsingh/Desktop/Node/weather-app/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+ReferenceError: address is not defined
+    at /Users/abhinavsingh/Desktop/Node/weather-app/web-servers/src/app.js:70:13
+    at Layer.handle [as handle_request] (/Users/abhinavsingh/Desktop/Node/weather-app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/abhinavsingh/Desktop/Node/weather-app/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/abhinavsingh/Desktop/Node/weather-app/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/abhinavsingh/Desktop/Node/weather-app/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/abhinavsingh/Desktop/Node/weather-app/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/abhinavsingh/Desktop/Node/weather-app/node_modules/express/lib/router/index.js:335:12)
+    at next (/Users/abhinavsingh/Desktop/Node/weather-app/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/Users/abhinavsingh/Desktop/Node/weather-app/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (events.js:315:20)
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/app.js`[39m
+Listening at port 3000
+^C[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air web-servers % [K[?2004hggit -- v[?2004l
+unknown option: -v
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air web-servers % [K[?2004hggit --version[?2004l
+git version 2.24.3 (Apple Git-128)
+[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air web-servers % [K[?2004hggog git init[?2004l
+Initialized empty Git repository in /Users/abhinavsingh/Desktop/Node/weather-app/web-servers/.git/
+[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air web-servers % [K[?2004hggit status[?2004l
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.DS_Store[m
+	[31mpackage-lock.json[m
+	[31mpackage.json[m
+	[31mpublic/[m
+	[31msrc/[m
+	[31mtemplates/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air web-servers % [K[?2004hnnode  n npm install[?2004l
+[?25l⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠦ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 8d3e77738c88bd8a[0m[K⸨[7m [27m[90m░░░░░░░░░░░░░░░░░[0m⸩ ⠋ preinstall:weather-app: [32minfo[0m [35mlifecycle[0m weather-app@1.0.0~preinstall: weather-app@1.0.[0m[K⸨[7m  [27m[90m░░░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:request: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K⸨[7m   [27m[90m░░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:vary: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K⸨[7m   [27m[90m░░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:statuses: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K⸨[7m   [27m[90m░░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:walk: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K⸨[7m   [27m[90m░░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:uuid: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K⸨[7m    [27m[90m░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:punycode: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠹ diffTrees: [7msill[0m [35minstall[0m generateActionsToTake[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠧ postinstall: [7msill[0m [35minstall[0m executeActions[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠧ postinstall: [7msill[0m [35minstall[0m executeActions[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠏ extract:request: [34;40mverb[0m [35mlock[0m using /Users/abhinavsingh/.npm/_locks/staging-812baaff34c5[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠏ extract:request: [34;40mverb[0m [35mlock[0m using /Users/abhinavsingh/.npm/_locks/staging-812baaff34c5[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠏ extract:request: [34;40mverb[0m [35mlock[0m using /Users/abhinavsingh/.npm/_locks/staging-812baaff34c5[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠏ extract:request: [34;40mverb[0m [35mlock[0m using /Users/abhinavsingh/.npm/_locks/staging-812baaff34c5[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠏ extract:request: [34;40mverb[0m [35mlock[0m using /Users/abhinavsingh/.npm/_locks/staging-812baaff34c5[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠼ extract:request: [34;40mverb[0m [35mlock[0m using /Users/abhinavsingh/.npm/_locks/staging-812baaff34c5[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠸ extract:combined-stream: [7msill[0m [35mextract[0m getpass@0.1.7 extracted to /Users/abhinavsingh/[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠴ extract:getpass: [7msill[0m [35mextract[0m tweetnacl@0.14.5[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ extract:isstream: [7msill[0m [35mextract[0m jsbn@0.1.1 extracted to /Users/abhinavsingh/Desktop/No[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠼ extract:jsbn: [7msill[0m [35mextract[0m extsprintf@1.3.0 extracted to /Users/abhinavsingh/Desktop/[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠴ extract:fast-deep-equal: [7msill[0m [35mextract[0m dashdash@1.14.1 extracted to /Users/abhinavsing[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠏ extract:dashdash: [7msill[0m [35mextract[0m range-parser@1.2.1[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠇ extract:depd: [7msill[0m [35mextract[0m depd@1.1.2 extracted to /Users/abhinavsingh/Desktop/Node/w[0m[K⸨[7m          [27m[90m░░░░░░░░[0m⸩ ⠦ extract:supports-color: [7msill[0m [35mextract[0m send@0.17.1 extracted to /Users/abhinavsingh/Des[0m[K⸨[7m          [27m[90m░░░░░░░░[0m⸩ ⠹ extract:setprototypeof: [7msill[0m [35mextract[0m range-parser@1.2.1 extracted to /Users/abhinavsi[0m[K⸨[7m           [27m[90m░░░░░░░[0m⸩ ⠼ extract:asn1: [7msill[0m [35mextract[0m path-to-regexp@0.1.7 extracted to /Users/abhinavsingh/Desk[0m[K⸨[7m           [27m[90m░░░░░░░[0m⸩ ⠦ extract:express: [7msill[0m [35mextract[0m express@4.17.1 extracted to /Users/abhinavsingh/Desktop[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠴ extract:psl: [7msill[0m [35mextract[0m psl@1.8.0 extracted to /Users/abhinavsingh/Desktop/Node/wea[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠏ extract:uglify-js: [7msill[0m [35mextract[0m uglify-js@3.12.4 extracted to /Users/abhinavsingh/Des[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠋ extract:neo-async: [7msill[0m [35mextract[0m neo-async@2.6.2 extracted to /Users/abhinavsingh/Desk[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠙ extract:ajv: [7msill[0m [35mextract[0m ajv@6.12.6 extracted to /Users/abhinavsingh/Desktop/Node/we[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ finalize:request: [7msill[0m [35mdoSerial[0m finalize 888[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠸ finalize:cookie: [7msill[0m [35mfinalize[0m /Users/abhinavsingh/Desktop/Node/weather-app/web-serve[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ finalize:extsprintf: [7msill[0m [35mfinalize[0m /Users/abhinavsingh/Desktop/Node/weather-app/web-s[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠙ finalize:isstream: [7msill[0m [35mfinalize[0m /Users/abhinavsingh/Desktop/Node/weather-app/web-ser[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠙ finalize:isstream: [7msill[0m [35mfinalize[0m /Users/abhinavsingh/Desktop/Node/weather-app/web-ser[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠹ finalize:jsbn: [7msill[0m [35mfinalize[0m /Users/abhinavsingh/Desktop/Node/weather-app/web-servers[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠼ finalize:json-schema-traverse: [7msill[0m [35mfinalize[0m /Users/abhinavsingh/Desktop/Node/weather[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠧ finalize:merge-descriptors: [7msill[0m [35mfinalize[0m /Users/abhinavsingh/Desktop/Node/weather-ap[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠙ finalize:asn1: [7msill[0m [35mfinalize[0m /Users/abhinavsingh/Desktop/Node/weather-app/web-servers[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠏ finalize:vary: [7msill[0m [35mfinalize[0m /Users/abhinavsingh/Desktop/Node/weather-app/web-servers[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠋ refresh-package-json:request: [32;40mtiming[0m [35maction:finalize[0m Completed in 613ms[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠋ refresh-package-json:request: [32;40mtiming[0m [35maction:finalize[0m Completed in 613ms[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠏ refresh-package-json:extend: [7msill[0m [35mrefresh-package-json[0m /Users/abhinavsingh/Desktop/No[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠋ refresh-package-json:safe-buffer: [7msill[0m [35mrefresh-package-json[0m /Users/abhinavsingh/Deskt[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠋ refresh-package-json:safe-buffer: [7msill[0m [35mrefresh-package-json[0m /Users/abhinavsingh/Deskt[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠋ refresh-package-json:safe-buffer: [7msill[0m [35mrefresh-package-json[0m /Users/abhinavsingh/Deskt[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠙ refresh-package-json:ms: [7msill[0m [35mrefresh-package-json[0m /Users/abhinavsingh/Desktop/Node/w[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠸ preinstall:methods: [32minfo[0m [35mlifecycle[0m parseurl@1.3.3~preinstall: parseurl@1.3.3[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠦ build:utils-merge: [7msill[0m [35mlinkStuff[0m utils-merge@1.0.1 has /Users/abhinavsingh/Desktop/N[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠧ build:utils-merge: [7msill[0m [35mlinkStuff[0m utils-merge@1.0.1 has /Users/abhinavsingh/Desktop/N[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠹ install:fast-json-stable-stringify: [32minfo[0m [35mlifecycle[0m fast-json-stable-stringify@2.1.0~i[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠹ install:unpipe: [32minfo[0m [35mlifecycle[0m unpipe@1.0.0~install: unpipe@1.0.0[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠼ postinstall:etag: [32minfo[0m [35mlifecycle[0m etag@1.8.1~postinstall: etag@1.8.1[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall:har-validator: [32minfo[0m [35mlifecycle[0m har-validator@5.1.5~postinstall: har-valida[0m[K⸨[7m             [27m[90m░░░░░[0m⸩ ⠋ prepare:web-servers: [32minfo[0m [35mlifecycle[0m weather-app@1.0.0~prepare: weather-app@1.0.0[0m[K[K[?25h[37;40mnpm[0m [0m[30;43mWARN[0m[35m[0m weather-app@1.0.0 No description
+[0m[37;40mnpm[0m [0m[30;43mWARN[0m[35m[0m weather-app@1.0.0 No repository field.
+[0m
+[?25l⸨[7m             [27m[90m░░░░░[0m⸩ ⠏ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m             [27m[90m░░░░░[0m⸩ ⠏ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m             [27m[90m░░░░░[0m⸩ ⠏ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m             [27m[90m░░░░░[0m⸩ ⠏ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m             [27m[90m░░░░░[0m⸩ ⠏ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K[K[?25hadded 111 packages from 128 contributors and audited 111 packages in 4.076s
+
+4 packages are looking for funding
+  run `npm fund` for details
+
+found [92m0[0m vulnerabilities
+
+[?25l⸨[7m             [27m[90m░░░░░[0m⸩ ⠹ prepare:web-servers: [32;40mtiming[0m [35maudit body[0m Completed in 2ms[0m[K[K[?25h[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air web-servers % [K[?2004hnnon npm init[?2004l
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+[1G[0Jpackage name: (weather-app) [29G[37;40mnpm[0m [0m[30;43mWARN[0m [0m[35minit[0m canceled
+[0m[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air web-servers % [K[?2004hnnpm install .[?2004l
+[?25l⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠦ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 439525c16d2bd0d0[0m[K⸨[7m [27m[90m░░░░░░░░░░░░░░░░░[0m⸩ ⠋ preinstall:weather-app: [32minfo[0m [35mlifecycle[0m weather-app@1.0.0~preinstall: weather-app@1.0.[0m[K⸨[7m [27m[90m░░░░░░░░░░░░░░░░░[0m⸩ ⠋ preinstall:weather-app: [32minfo[0m [35mlifecycle[0m weather-app@1.0.0~preinstall: weather-app@1.0.[0m[K⸨[7m [27m[90m░░░░░░░░░░░░░░░░░[0m⸩ ⠋ preinstall:weather-app: [32minfo[0m [35mlifecycle[0m weather-app@1.0.0~preinstall: weather-app@1.0.[0m[K⸨[7m [27m[90m░░░░░░░░░░░░░░░░░[0m⸩ ⠴ loadIdealTree:loadAllDepsIntoIdealTree: [7msill[0m [35minstall[0m loadIdealTree[0m[K⸨[7m  [27m[90m░░░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:request: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K⸨[7m   [27m[90m░░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:mime-types: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K⸨[7m   [27m[90m░░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:har-schema: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠹ diffTrees: [7msill[0m [35minstall[0m generateActionsToTake[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠇ postinstall: [7msill[0m [35minstall[0m executeActions[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠇ prepare:web-servers: [32minfo[0m [35mlifecycle[0m weather-app@1.0.0~prepare: weather-app@1.0.0[0m[K[K[?25h[37;40mnpm[0m [0m[30;43mWARN[0m[35m[0m weather-app@1.0.0 No description
+[0m[37;40mnpm[0m [0m[30;43mWARN[0m[35m[0m weather-app@1.0.0 No repository field.
+[0m
+[?25l⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠧ prepare:web-servers: [30;43mWARN[0m weather-app@1.0.0 No repository field.[0m[K[K[?25haudited 111 packages in 4.44s
+
+4 packages are looking for funding
+  run `npm fund` for details
+
+found [92m0[0m vulnerabilities
+
+[?25l⸨[7m         [27m[90m░░░░░░░░░[0m⸩ ⠋ prepare:web-servers: [32;40mtiming[0m [35maudit body[0m Completed in 2ms[0m[K[K[?25h[1m[7m%[27m[1m[0m                                                                                                             [0m[27m[24m[J(base) abhinavsingh@Abhinavs-MacBook-Air web-servers % [K[?2004h
