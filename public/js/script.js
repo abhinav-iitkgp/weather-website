@@ -39,7 +39,7 @@ weatherForm.addEventListener('submit',(e)=>{//e for event
     console.log('Testing',currentInputValue)
     messageOne.textContent='Loading'
     messageTwo.textContent=''
-    fetch('http://localhost:3000/weather?address='+currentInputValue).then((response)=>{
+    fetch('/weather?address='+currentInputValue).then((response)=>{//or 'http://localhost:3000/weather?address=' in local host this will also work for local host
     response.json().then((data)=>{
         if(data.address===currentInputValue){//checking with latest submitted value---
             //even if sent query to server but till it reaches back to the client if the submitted 
