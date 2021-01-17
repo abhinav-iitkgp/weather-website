@@ -23,12 +23,12 @@ const weatherForm=document.querySelector('form')//same name as in css
 const inputLocation =document.querySelector('input')
 const messageOne=document.querySelector('#message-1')
 const messageTwo=document.querySelector('#message-2')
-const loca=document.querySelector('#loca')
+// const loca=document.querySelector('#loca')
 
 let currentInputValue=''
-navigator.geolocation.getCurrentPosition(({coords:{latitude,longitude,accuracy}})=>{
-    loca.textContent=latitude+" "+longitude+" "+accuracy
-})
+// navigator.geolocation.getCurrentPosition(({coords:{latitude,longitude,accuracy}})=>{
+//     loca.textContent=latitude+" "+longitude+" "+accuracy
+// })
 //now putting an event listner on form for submit
 
 weatherForm.addEventListener('submit',(e)=>{//e for event
